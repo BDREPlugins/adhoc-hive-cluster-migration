@@ -123,7 +123,8 @@
 			}
 		},
 		"uiWar": {
-			"location": "files/webapp/hivemigration-md-ui-1.0-SNAPSHOT.war"
+			"location": "files/webapp/hivemigration-md-ui-1.0-SNAPSHOT.war",
+			"localizationFile":"WEB-INF/classes/messages_en.properties"
 
 		},
 		"restWar": {
